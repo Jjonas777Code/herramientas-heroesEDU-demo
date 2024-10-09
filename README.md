@@ -1,6 +1,6 @@
 # Herramientas de los Héroes
 
-Un repositorio que muestra los inventos de herramientas usadas por los héroes.
+Un repositorio que informa de los inventos de herramientas usadas por los héroes.
 
 
 # Curso JMS
