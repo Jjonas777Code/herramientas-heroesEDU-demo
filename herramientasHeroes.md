@@ -4,4 +4,3 @@
 2. Escudo del Capitán América
 3. Guantelete del Infinito
 4. Mjolnier
-5. Stormbreaker
