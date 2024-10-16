@@ -8,3 +8,4 @@ Un repositorio que informa de los inventos de herramientas usadas por los héroe
 1. Cloning 
 2. Fork
 3. Colaboraciones
+4. Actualización del Fork
